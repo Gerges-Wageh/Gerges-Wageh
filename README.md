@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gerges Wageh</h1>
-<h3 align="center">A Geek Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Gerges Wagih</h1>
+<h3 align="center">Backend Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerges-wageh&label=Profile%20views&color=0e75b6&style=flat" alt="gerges-wageh" /> </p>
 
